@@ -1,7 +1,5 @@
 # Bootstrapv3.3.6 RTL AND LTR
-![Bower version](https://img.shields.io/bower/v/bootstrap.svg)
 [![npm version](https://img.shields.io/npm/v/bootstrap.svg)](https://www.npmjs.com/package/bootstrap)
-[![NuGet](https://img.shields.io/nuget/v/bootstrap.svg)](https://www.nuget.org/packages/Bootstrap)
 [![Selenium Test Status](https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
 
 > Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
