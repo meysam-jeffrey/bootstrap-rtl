@@ -16,7 +16,7 @@ $ npm install -g grunt-cli
 ```
 Compile files:
 ```bash
-$ grunt disc
+$ grunt dist
 ```
 Watch files:
 ```bash
